@@ -1,7 +1,25 @@
+# Phil Marcus
+**Senior Data Scientist — Simulation, Optimization & Uncertainty Quantification**  
+Greater Boston 
+
+[LinkedIn](https://www.linkedin.com/in/phil-marcus/) • [GitHub](https://github.com/philMarcus)
+
+---
+
+## What I do
+I build simulation-driven evaluation frameworks to understand complex systems, quantify uncertainty, and make tradeoffs explicit—then clearly communicate actionable results.
+
+Core interests:
+- **Monte Carlo simulation** and uncertainty quantification
+- **Strategy / policy optimization** in stochastic environments
+- **Evaluation design** (benchmarks, metrics, robustness)
+- Reproducible analysis artifacts (code + visuals + writeups)
+
+---
 ## Featured projects
 
 ### ⚔️ battleMage — strategy optimization in a stochastic, rule-driven system
-A Java simulation environment with an optimization pipeline for tuning combat strategies under uncertainty.
+A Java simulation environment with an optimization pipeline for parameteric tuning of combat strategies
 
 **Highlights**
 - High-throughput simulation sweeps across **4M+ parameter configurations**
@@ -35,3 +53,22 @@ A Java Mastermind simulation + solver used to quantify how difficulty changes ac
 
 ![Mastermind final comparison](https://raw.githubusercontent.com/philMarcus/Mastermind/Mastermind_(main)/Mastermind/mastermind_final_comparison_plot.png)  
 *Crossover result: regimes where increasing NumColors vs CodeLength increases difficulty more, plus confidence in the boundary.*
+
+---
+
+## Toolbox
+- **Python:** pandas, NumPy, matplotlib, Jupyter
+- **Java:** simulation engines + tooling
+- **SQL:** (DuckDB/Postgres), ETL/ELT basics
+- **Workflow:** Git, reproducible pipelines, clear documentation
+
+---
+
+## What I’m working on now
+- Applying SQL to simulation logs for fast slicing/aggregation
+- Packaging projects with “org-ready” artifacts (run scripts, validation checks, short decision memos)
+
+---
+
+## Contact
+Best way to reach me: https://www.linkedin.com/in/phil-marcus/
