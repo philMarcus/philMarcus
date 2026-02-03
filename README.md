@@ -7,30 +7,13 @@ Greater Boston • Open to relocation (US & UK)
 ---
 
 ## What I do
-I build simulation-driven evaluation frameworks to understand complex systems, quantify risk, and make tradeoffs explicit—then clearly communicate actionable results.
+I build simulation-driven evaluation frameworks to understand complex systems, quantify uncertainty, and make tradeoffs explicit—then clearly communicate actionable results.
 
 Core interests:
 - **Monte Carlo simulation** and uncertainty quantification
 - **Strategy / policy optimization** in stochastic environments
 - **Evaluation design** (benchmarks, metrics, robustness)
 - Reproducible analysis artifacts (code + visuals + writeups)
-
----
-
-## Featured projects
-
-### ⚔️ battleMage — strategy optimization in a stochastic, rule-driven system
-A Java simulation environment with an optimization pipeline for tuning combat strategies under uncertainty.
-
-**Highlights**
-- High-throughput simulation sweeps across **4M+ parameter configurations**
-- Each logged result aggregates outcomes from **10²–10⁵ simulated battles** for stable comparisons
-- Clear evidence of optimization dynamics and performance ceilings
-
-**Repo:** https://github.com/philMarcus/battleMage_Optimization  
-**Notebook:** `01_Optimizing_battleMage.ipynb`
-
-![battleMage optimization trajectory](https://raw.githubusercontent.com/philMarcus/battleMage_Optimization/main/images/optimization_trajectory.png)
 
 ---
 
@@ -45,22 +28,24 @@ A Java Mastermind simulation + solver used to quantify how difficulty changes ac
 **Repo:** https://github.com/philMarcus/Mastermind  
 **Notebook:** `Mastermind_Analysis.ipynb`
 
-![Mastermind combined heatmap](https://raw.githubusercontent.com/philMarcus/Mastermind/Mastermind_(main)/Mastermind/mastermind_combined_heatmap.png)
+![Mastermind combined heatmap](https://raw.githubusercontent.com/philMarcus/Mastermind/Mastermind_(main)/Mastermind/mastermind_combined_heatmap.png)  
+*Difficulty landscape: mean turns to solve across (CodeLength, NumColors), with high-precision uncertainty estimates.*
 
-![Mastermind final comparison](https://raw.githubusercontent.com/philMarcus/Mastermind/Mastermind_(main)/Mastermind/mastermind_final_comparison_plot.png)
+![Mastermind final comparison](https://raw.githubusercontent.com/philMarcus/Mastermind/Mastermind_(main)/Mastermind/mastermind_final_comparison_plot.png)  
+*Crossover result: regimes where increasing NumColors vs CodeLength increases difficulty more, plus confidence in the boundary.*
 
 ---
 
 ## Toolbox
-- **Python:** pandas, NumPy, matplotlib, Jupyter
+- **Python:** pandas, NumPy, matplotlib, seaborn, Jupyter
 - **Java:** simulation engines + tooling
-- **Data:** SQL (DuckDB/Postgres), ETL/ELT basics
+- **SQL:** DuckDB/Postgres 
 - **Workflow:** Git, reproducible pipelines, clear documentation
 
 ---
 
-## What I’m improving right now
-- **SQL fluency** (DuckDB + interview-style drills) and applying SQL to simulation logs for fast slicing/aggregation
+## What I’m working on now
+- applying SQL to simulation logs for fast slicing/aggregation
 - Packaging projects with “org-ready” artifacts (run scripts, validation checks, short decision memos)
 
 ---
