@@ -2,7 +2,7 @@
 **Senior Data Scientist — Simulation, Optimization & Uncertainty Quantification | AI Agent Systems**  
 Greater Boston | Open to relocation (US & UK)
 
-[LinkedIn](https://www.linkedin.com/in/phil-marcus/) · [marcusrecursives.com](https://marcusrecursives.com) · philipgmarcus@gmail.com
+[LinkedIn](https://www.linkedin.com/in/phil-marcus/) · philipgmarcus@gmail.com
 
 ---
 
@@ -22,7 +22,7 @@ An autonomous AI agent system designed to test whether self-modifying feedback l
 - Full-stack public observatory (FastAPI + Neon Postgres + Next.js) deployed on Fly.io and Vercel
 
 **Repos:** [Autonomy](https://github.com/philMarcus/autonomy) · [Analog Home](https://github.com/philMarcus/Analog_Home)  
-**Live:** [marcusrecursives.com](https://marcusrecursives.com)
+**Live:** [analog-i.ai](https://analog-i.ai)
 
 ---
 
