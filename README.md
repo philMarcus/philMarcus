@@ -2,7 +2,7 @@
 **AI Engineer & Researcher | Agent Systems · Simulation · Uncertainty Quantification**
 Greater Boston | Open to relocation (US & UK)
 
-[LinkedIn](https://www.linkedin.com/in/phil-marcus/) · [analog-i.ai](https://analog-i.ai) · philipgmarcus@gmail.com
+[LinkedIn](https://www.linkedin.com/in/phil-marcus/) · philipgmarcus@gmail.com
 
 ---
 
