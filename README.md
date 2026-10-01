@@ -1,6 +1,6 @@
 # Phil Marcus
 **AI Engineer & Researcher | Agent Systems · Simulation · Uncertainty Quantification**
-Greater Boston | Open to relocation (US & UK)
+Greater Boston 
 
 [LinkedIn](https://www.linkedin.com/in/phil-marcus/) · philipgmarcus@gmail.com
 
